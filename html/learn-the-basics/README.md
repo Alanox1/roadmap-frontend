@@ -151,7 +151,7 @@ Lo que pongamos dentro de `<!--  -->` no se va a mostrar a los usuarios, sirve p
 ## ¿En HTML se usa comillas simples ('') o dobles ("") ?
 LAS DOS, depende de cual te guste más, pero siempre es importante que si arrancan con una por ejemplo la " termines con esa misma ". Porque si empezas con una y terminas con otra va a salir un error.
 
-## Etiqueta <img>
+## Etiqueta `<img>`
 
 Con la etiqueta `<img>` podemos mostrar imágenes al usuario en la página web.
 
@@ -183,7 +183,7 @@ Como ya vimos arriba, las etiquetas `<ul>` y `<ol>` generan listas, la etiqueta 
 
 Dentro de estas 2 listas, tenemos la etiqueta `<li>`, que define un item de la lista. vamos a ver los ejemplos:
 
-<ul>: Lista desordenada:
+`<ul>`: Lista desordenada:
 
 ```ul
 <ul>
@@ -197,7 +197,7 @@ resultado:
 ![Lista desordenada](images/lista-desordenada.png)
 
 
-<ol>: Lista ordenada
+`<ol>`: Lista ordenada
 
 ```ol
 <ol>
