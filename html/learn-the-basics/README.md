@@ -21,6 +21,7 @@ Un elemento HTML está definido asi: `<etiqueta de apertura o inicio>` contenido
 
 ![Mozilla Developer (MDN)](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-small.png)
 
+> Imagen tomada de [Mozilla Developer (MDN)](https://developer.mozilla.org/es/).
 
 El elemento sería la etiqueta de apertura, seguida del contenido, seguida de la etiqueta de cierre.
 El elemento que acabamos de ver mostraria esto: 
@@ -123,6 +124,8 @@ Y asi funcionan las etiquetas que estan en el código de arriba:
 Un elemento HTML puede tener atributos, los atributos se ven asi:
 
 ![Mozilla Developer (MDN)](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-attribute-small.png)
+
+> Imagen tomada de [Mozilla Developer (MDN)](https://developer.mozilla.org/es/).
 
 Los atributos tienen información adicional sobre el elemento, esta información no se mostrará en pantalla.
 
