@@ -79,6 +79,10 @@ Y asi funcionan las etiquetas que estan en el código de arriba:
 
 `<img>`: Con esta etiqueta se ponen las imágenes en la web.
 
+`<audio>`: Con esta etiqueta se puede poner audios en la web.
+
+`<video>`: Con esta etiqueta se puede poner videos.
+
 `<a>`: Se utiliza para crear enlaces, que pueden llevar a los usuarios a otras páginas web, a diferentes secciones de la misma página, a archivos para descargar, o a otros recursos. La a significa "anchor" (ancla en inglés).
 
 `<ul>`: Define una lista desordenada.
@@ -207,6 +211,7 @@ resultado:
 </ol>
 ```
 resultado:
+
 ![Lista ordenada](images/lista-ordenada.png)
 
 
