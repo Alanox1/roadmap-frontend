@@ -65,7 +65,7 @@ Y asi funcionan las etiquetas que estan en el código de arriba:
 
 `<!DOCTYPE html>`:  Declara el tipo de documento y la versión de HTML.
 
-`<title>`: Pone el título de la página, se muestra en la barra de título del navegador o en la pestaña de la página.
+`<title>`: Pone el título de la página, se muestra en la barra de título del navegador o en la pestaña de la página y ayuda a los motores de busqueda a encotrar la página.
 
 
 
@@ -85,8 +85,11 @@ Y asi funcionan las etiquetas que estan en el código de arriba:
 
 `<ol>`: Define una lista ordenada numericamente
 
-`<li>`: Define un ítem de lista.
+`<li>`: Define un ítem de la lista.
 
+`<hr>`: Crea una línea que sirve para separar elementos o tematicas de la página.
+
+`<br>`: Hace un salto de línea.
 
 ## Etiquetas que se usan para estructurar la página web:
 
@@ -119,12 +122,7 @@ Un elemento HTML puede tener atributos, los atributos se ven asi:
 
 Los atributos tienen información adicional sobre el elemento, esta información no se mostrará en pantalla.
 
-```html
-<a href="https://www.ejemplo.com" target="_blank">Visitar Ejemplo</a>
-```
 
-- **`href`**: Define el destino del enlace.
-- **`target`**: Define cómo se abre el enlace (e.g., en una nueva pestaña).
 
 ## Un atributo debería tener:
 
@@ -134,19 +132,83 @@ Los atributos tienen información adicional sobre el elemento, esta información
 - Un valor de atributo, envuelto con comillas de apertura y cierre.
 
 
+## Etiqueta de hipervínculos:
+`<a>`: La etiqueta `<a>` nos va a permitir navegar hacia otras páginas o movernos por diferentes sitios de nuestra web.
+
+Por ejemplo:
+```html
+<a href="https://www.ejemplo.com" target="_blank">Visitar Ejemplo</a>
+```
+
+- **`href`**: Define el destino del enlace.
+- **`target`**: Define cómo se abre el enlace (e.g., en una nueva pestaña).
+
 ## Comentarios
 Los comentarios en HTML son asi:
 `<!-- <p> ¡Contenido! </p> -->`
+Lo que pongamos dentro de `<!--  -->` no se va a mostrar a los usuarios, sirve para dejar mensajes o recordatorios.
 
 ## ¿En HTML se usa comillas simples ('') o dobles ("") ?
 LAS DOS, depende de cual te guste más, pero siempre es importante que si arrancan con una por ejemplo la " termines con esa misma ". Porque si empezas con una y terminas con otra va a salir un error.
 
-## Etiqueta img
+## Etiqueta <img>
+
+Con la etiqueta `<img>` podemos mostrar imágenes al usuario en la página web.
+
 ```html
 <img src="imagen.jpg" alt="Descripción de la imagen">
 ```
+
 - **`src (Source) `**: Especifica la URL de la imagen que deseas mostrar. Por ejemplo, src="imagen.jpg" indica la ubicación del archivo de imagen.
 - **`alt: (Alternative Text)`**: Proporciona una descripción alternativa de la imagen. Este texto se muestra si la imagen no puede ser cargada y también ayuda a los lectores de pantalla a describir la imagen a los usuarios con discapacidades visuales.
+
+- **`width`**: Le decimos cuanto queremos que tenga de ancho nuestra imágen. por ejemplo: 100px
+
+- **`height`**: Le decimos cuanto queremos que tenga de alto nuestra imágen. por ejemplo: 200px.
+
+
+## Indentación
+La indentación es los espacios que se le dejan a la etiqueta que va dentro de otra etiqueta, pueden ser 2 espacios o 4, se usa esto para que el codigo HTML quede más ordenado.
+
+```div
+<div>
+----<p>Contenido</p>
+</div>
+```
+Los 4 guiones (-) seria la indentación, también se puede usar el Tab.
+
+
+## Listas
+Como ya vimos arriba, las etiquetas `<ul>` y `<ol>` generan listas, la etiqueta `<ul>` genera una lista desordenada, mientras que la `<ol>` genera una lista ordenada numericamente.
+
+Dentro de estas 2 listas, tenemos la etiqueta `<li>`, que define un item de la lista. vamos a ver los ejemplos:
+
+<ul>: Lista desordenada:
+
+```ul
+<ul>
+    <li>Soy el item 1</li>
+    <li>Soy el item 2</li>
+    <li>Soy el item 3</li>
+</ul>
+```
+resultado:
+
+![Lista desordenada](images/lista-desordenada.png)
+
+
+<ol>: Lista ordenada
+
+```ol
+<ol>
+    <li>Soy el item 1</li>
+    <li>Soy el item 2</li>
+    <li>Soy el item 3</li>
+</ol>
+```
+resultado:
+![Lista ordenada](images/lista-ordenada.png)
+
 
 ## Páginas que me sirvieron: 
 
