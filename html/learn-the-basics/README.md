@@ -1,7 +1,7 @@
 
 # HTML: aprende lo básico
 
-HTML (HyperText Markup Language) es un lenguaje de marcado de hypertexto, sería como los cimientos de una casa en construcción, mientras que CSS sería los estilos como la pintura, los cuadros, etc.
+HTML (HyperText Markup Language) es un lenguaje de marcado de hipertexto, sería como los cimientos de una casa en construcción, mientras que CSS sería los estilos como la pintura, los cuadros, etc.
 
 HTML consiste en crear elementos los cuales le dicen al navegador como tiene que mostrar su contenido.
 
