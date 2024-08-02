@@ -217,6 +217,7 @@ resultado:
 
 ![Lista ordenada](images/lista-ordenada.png)
 
+En el archivo index.html, van a encontrar una página HTML, le puse lo básico de HTML que vimos acá. ☺️
 
 ## Páginas que me sirvieron: 
 
