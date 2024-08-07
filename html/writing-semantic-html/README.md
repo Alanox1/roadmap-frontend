@@ -207,11 +207,18 @@ Las etiquetas `<div>` y `<span>` no son etiquetas semánticas. Se utilizan para 
 
 # En el archivos index.html, pueden ver una página hecha con etiquetas semánticas.
 
-# Muchas gracias a Semrush por la foto, pueden ir a ver su página y aprender de ellos también.
+# Muchas gracias a Semrush y a pexels por las fotos, pueden ir a ver su página y aprender de ellos también.
+
+- [Semrush Blog](https://es.semrush.com/blog/html-semantico/) 
+- [Daniel Nettesheim](https://www.pexels.com/es-es/foto/logotipo-blanco-y-azul-de-la-ruta-66-1162361/) 
+- [Pixabay](https://www.pexels.com/es-es/foto/ruta-66-impresa-en-la-carretera-210112/) 
+- [Łukasz Kondracki](https://www.pexels.com/es-es/foto/carretera-firmar-estados-unidos-linea-5988878/) 
+- [Patrick Gamelkoorn](https://www.pexels.com/es-es/foto/blanco-y-negro-monocromo-escala-de-grises-senalizacion-13709137/) 
 
 ## Páginas que me sirvieron: 
 
 - [Semrush Blog](https://es.semrush.com/blog/html-semantico/) 
 - [cs.fyi](https://cs.fyi/guide/writing-semantic-html) 
+- [Pexels](https://www.pexels.com/es-es/)
 
 
