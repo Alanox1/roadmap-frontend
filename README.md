@@ -7,11 +7,11 @@ Bienvenido a la documentación de mi aprendizaje en el desarrollo frontend. En e
 
 El objetivo de este repositorio es:
 
-Documentar el Aprendizaje: Registrar y organizar la información a medida que se avanza en el aprendizaje de desarrollo frontend, proporcionando una referencia clara y accesible.
+- Documentar el Aprendizaje: Registrar y organizar la información a medida que se avanza en el aprendizaje de desarrollo frontend, proporcionando una referencia clara y accesible.
 
-Facilitar la Revisión: Crear un recurso estructurado que facilite la revisión y repaso de los temas estudiados, permitiendo un aprendizaje más efectivo.
+- Facilitar la Revisión: Crear un recurso estructurado que facilite la revisión y repaso de los temas estudiados, permitiendo un aprendizaje más efectivo.
 
-Mejorar la Comprensión: Profundizar en los conceptos a través de la práctica y la documentación, mejorando así la comprensión y la capacidad para aplicar los conocimientos en proyectos reales.
+- Mejorar la Comprensión: Profundizar en los conceptos a través de la práctica y la documentación, mejorando así la comprensión y la capacidad para aplicar los conocimientos en proyectos reales.
 
 
 # Cómo Contribuir
