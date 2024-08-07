@@ -111,8 +111,6 @@ Sirve para poner un contenido independiente, como una entrada de blog, algún co
 
 
 
-
-
 # Aside
 
 La etiqueta `<aside>` sirve para la información relacionada con la página pero que no pertenece al contenido principal de ella, principalmente se usa como una barra lateral y se pone elementos como información complementaria, anuncios o artículos relacionados.
